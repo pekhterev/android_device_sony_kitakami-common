@@ -128,6 +128,6 @@ PRODUCT_PACKAGES += \
     wpa_supplicant.conf
 
 # OTG
-PRODUCT_PACKAGES += \
-    SonyOtgSwitch
+#PRODUCT_PACKAGES += \
+#    SonyOtgSwitch
 
